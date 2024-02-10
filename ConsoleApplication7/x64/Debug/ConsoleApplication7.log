@@ -1,0 +1,7 @@
+﻿  ConsoleApplication7.cpp
+C:\Users\Данил\Desktop\Project\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(11,37): warning C4305: аргумент: усечение из "__int64" в "long"
+C:\Users\Данил\Desktop\Project\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(11,37): warning C4309: аргумент: усечение константного значения
+C:\Users\Данил\Desktop\Project\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(12,20): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  utils.cpp
+  Создание кода...
+  ConsoleApplication7.vcxproj -> C:\Users\Данил\Desktop\Project\ConsoleApplication7\x64\Debug\ConsoleApplication7.exe
